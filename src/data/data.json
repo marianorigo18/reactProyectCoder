@@ -1,0 +1,1881 @@
+{
+    "categorias": [
+        {
+            "title": "iluminacion",
+            "img": "./assets/topics/iluminacion.jpg",
+            "link": "iluminacion",
+            "categorias": [
+                {
+                    "title": "lamparas",
+                    "img": "../data/assets/iluminacion/lamparas-vintage.jpg",
+                    "link": "../subpages/lamparas.html",
+                    "categorias": [
+                        {
+                            "title": "golponeras",
+                            "img": "../data/assets/lamparas/potentee27.jpg",
+                            "link": "../subpages/bulbones.html",
+                            "categorias": [
+                                {
+                                    "id": 34,
+                                    "title": "bulbon 19w e-27",
+                                    "img": "../data/assets/bulbones/bulbon20we27.png"
+                                },
+                                {
+                                    "id": 35,
+                                    "title": "bulbon 28w e-27",
+                                    "img": "../data/assets/bulbones/bulbon30we27.png"
+                                },
+                                {
+                                    "id": 36,
+                                    "title": "bulbon 38w e-27",
+                                    "img": "../data/assets/bulbones/bulbon40we27.png"
+                                },
+                                {
+                                    "id": 37,
+                                    "title": "bulbon 48w e-27",
+                                    "img": "../data/assets/bulbones/bulbon40we27.png"
+                                },
+                                {
+                                    "id": 38,
+                                    "title": "hightpower 60w e-40",
+                                    "img": "../data/assets/bulbones/bulbon60we40.png"
+                                },
+                                {
+                                    "id": 39,
+                                    "title": "hightpower 90w e-40",
+                                    "img": "../data/assets/bulbones/bulbon90we40.png"
+                                },
+                                {
+                                    "id": 40,
+                                    "title": "magnolia 40w e-40",
+                                    "img": "../data/assets/bulbones/magnolia40we40.png"
+                                },
+                                {
+                                    "id": 41,
+                                    "title": "magnolia 40w e-27",
+                                    "img": "../data/assets/bulbones/magnolia40we27.png"
+                                },
+                                {
+                                    "id": 4141,
+                                    "title": "magnolia 80w e-40",
+                                    "img": "../data/assets/bulbones/magnolia80we40.png"
+                                }
+                            ]
+                        },
+                    {
+                        "title": "vintage",
+                        "img": "../data/assets/lamparas/vintage.jpg",
+                        "link": "../subpages/vintage.html",
+                        "categorias": [
+                            {
+                                "id": 1,
+                                "title": "gota s14 1w",
+                                "img": "../data/assets/vintage/gota-s14-1w.png"
+                            },
+                            {
+                                "id": 2,
+                                "title": "vela c37 3w",
+                                "img": "../data/assets/vintage/velac373w.png"
+                            },                            
+                            {
+                                "id": 3,
+                                "title": "gota g45 3w",
+                                "img": "../data/assets/vintage/gotag453w.png"
+                            },
+                            {
+                                "id": 4,
+                                "title": "bulbo a60 2w",
+                                "img": "../data/assets/vintage/bulboa602w.png"
+                            },
+                            {
+                                "id": 5,
+                                "title": "bulbo A60 5w",
+                                "img": "../data/assets/vintage/bulboa605w.png"
+                            },
+                            {
+                                "id": 6,
+                                "title": "tubo t45 4w",
+                                "img": "../data/assets/vintage/gotag453w.png"
+                            },
+                            {
+                                "id": 7,
+                                "title": "tubo t30 2w",
+                                "img": "../data/assets/vintage/tubot302w.png"
+                            },
+                            {
+                                "id": 8,
+                                "title": "tubo t30 5w",
+                                "img": "../data/assets/vintage/tubot305w.png"
+                            },
+                            {
+                                "id": 9,
+                                "title": "globo g125 5w",
+                                "img": "../data/assets/vintage/globog1255w.png"
+                            },
+                            {
+                                "id": 10,
+                                "title": "vintage st19 2w",
+                                "img": "../data/assets/vintage/vintagest192w.png"
+                            },
+                            {
+                                "id": 11,
+                                "title": "vintage st19 5w",
+                                "img": "../data/assets/vintage/vintagest195w.png"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "bulbos",
+                        "img": "../data/assets/lamparas/lamparaled.jpg",
+                        "link": "../subpages/bulbos.html",
+                        "categorias": [
+                            {
+                                "id": 12,
+                                "title": "bulbo 7w",
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
+                            },
+                            {
+                                "id": 13,
+                                "title": "bulbo 10w",
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
+                            },
+                            {
+                                "id": 14,
+                                "title": "bulbo 12w",
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
+                            },
+                            {
+                                "id": 15,
+                                "title": "bulbo 15w",
+                                "img": "../data/assets/bulbos/bulbo7we27.png"
+                            },
+                            {
+                                "id": 21,
+                                "title": "vela c37 6w e-27",
+                                "img": "../data/assets/bulbos/velac376w.png"
+
+                            },
+                            {
+                                "id": 19,
+                                "title": "gota g45 6w e-27",
+                                "img": "../data/assets/e-14/gotag456we14.png"
+                            },
+                            {
+                                "id": 22,
+                                "title": "globo g95 14w",
+                                "img": "../data/assets/bulbos/globog9514w.png"
+                            },
+                            {
+                                "id": 23,
+                                "title": "globo g95 18w",
+                                "img": "../data/assets/bulbos/globog12018w.png"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "e-14",
+                        "img": "../data/assets/lamparas/e14heladera.jpg",
+                        "link": "../subpages/lamparas-e14.html",
+                        "categorias": [
+                            {
+                                "id": 16,
+                                "title": "fridge 1.8w",
+                                "img": "../data/assets/e-14/fridge18we14.png"
+                            },
+                            {
+                                "id": 17,
+                                "title": "fridge 4w",
+                                "img": "../data/assets/e-14/fridge18we14.png"
+                            },
+                            {
+                                "id": 18,
+                                "title": "gota g45 6w e-14",
+                                "img": "../data/assets/e-14/gotag456we14.png"
+                            },
+                            {
+                                "id": 20,
+                                "title": "vela c37 6w e-14",
+                                "img": "../data/assets/e-14/velac376we14.png"
+
+                            }
+                        ]
+                    },
+                    {
+                        "title": "dicroicas",
+                        "img": "../data/assets/lamparas/dicroica.jpg",
+                        "link": "../subpages/dicroicas.html",
+                        "categorias": [
+                            {
+                                "id": 24,
+                                "title": "dicro pvc 5w",
+                                "img": "../data/assets/dicro/dicropvc5w.png"
+                            },
+                            {
+                                "id": 25,
+                                "title": "drico blanca 7w",
+                                "img": "../data/assets/dicro/dricoblanca7w.png"
+                            },
+                            {
+                                "id": 26,
+                                "title": "drico dimerizable 7w",
+                                "img": "../data/assets/dicro/dricoblanca7w.png"
+                            },
+                            {
+                                "id": 27,
+                                "title": "dricro negra 7w",
+                                "img": "../data/assets/dicro/dricronegra7w.png"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "gota",
+                        "img": "../data/assets/lamparas/gotafilamento.jpg",
+                        "link": "../subpages/gota.html",
+                        "categorias": [
+                            {
+                                "id": 28,
+                                "title": "gota s14 1w azul",
+                                "img": "../data/assets/gotas/s141wazul.png"
+                            },
+                            {
+                                "id": 29,
+                                "title": "gota s14 1w rojo",
+                                "img": "../data/assets/gotas/s141wrojo.png"
+                            },
+                            {
+                                "id": 30,
+                                "title":"gota s14 1w verde",
+                                "img": "../data/assets/gotas/s141wverde.png"
+                            },
+                            {
+                                "id": 31,
+                                "title": "gota s14 1w amarillo",
+                                "img": "../data/assets/gotas/s141wamarillo.png"
+                            },
+                            {
+                                "id": 31,
+                                "title": "gota s14 deco 1w",
+                                "img": "../data/assets/gotas/gotas14065w.png"
+                            },
+                            {
+                                "id": 32,
+                                "title": "gota calida 6w",
+                                "img": "../data/assets/gotas/gota-led.jpg"
+                            },
+                            {
+                                "id": 33,
+                                "title": "gota fria 6w",
+                                "img": "../data/assets/gotas/gota-led.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "bi-pin",
+                        "img": "../data/assets/lamparas/bipinplano.jpg",
+                        "link": "#",
+                        "categorias": [
+                            {
+                                "id": 42,
+                                "title": "bipin 4.5w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 43,
+                                "title": "bipin 6w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 44,
+                                "title": "bipin 9w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 45,
+                                "title": "bipin 12w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 46,
+                                "title": "bipin opal 5w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 47,
+                                "title": "bipin 2w g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 48,
+                                "title": "bipin 4w g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 49,
+                                "title": "bipin 2.5w opal g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "tubo led",
+                        "img": "../data/assets/lamparas/tuboled.jpg",
+                        "link": "#",
+                        "categorias": [
+                            {
+                                "id": 50,
+                                "title": "tubo led vidrio 60cm 9w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 51,
+                                "title": "tubo led vidrio 120cm 18w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 52,
+                                "title": "tubo nano 60cm 9w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 53,
+                                "title": "tubo nano 120cm 18w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "arr 11",
+                        "img": "../data/assets/lamparas/arr11.jpg",
+                        "link": "#",
+                        "categorias": [
+                        ]
+                    }
+                ]},
+                {
+                    "title" :"faroles",
+                    "img": "../data/assets/iluminacion/faroles.jpg",
+                    "link": "../subpages/faroles.html",
+                    "categorias": [
+                        {
+                            "title": "faroles trapezoidales",
+                            "img": "../data/assets/faroles-trapezoidal/5500.jpg",
+                            "link": "../subpages/faroles-trapezoidal.html",
+                            "categorias": [
+                                {
+                                "id": 54,
+                                "title": "farol trapezoidal 5500",
+                                "img": "../data/assets/faroles-trapezoidal/5500.jpg"
+                                },
+                                {
+                                "id": 55,
+                                "title": "farol trapezoidal 5510",
+                                "img": "../data/assets/faroles-trapezoidal/5510.jpg"
+                                },
+                                {
+                                "id": 56,
+                                "title": "farol trapezoidal 5512",
+                                "img": "../data/assets/faroles-trapezoidal/5512.jpg"
+                                },
+                                {
+                                "id": 57,
+                                "title": "farol trapezoidal 5513",
+                                "img": "../data/assets/faroles-trapezoidal/5513.jpg"
+                                },
+                                {
+                                "id": 58,
+                                "title": "farol trapezoidal 5514",
+                                "img": "../data/assets/faroles-trapezoidal/5514.jpg"
+                                },
+                                {
+                                "id": 59,
+                                "title": "farol trapezoidal 5516",
+                                "img": "../data/assets/faroles-trapezoidal/5516.jpg"
+                                },
+                                {
+                                "id": 60,
+                                "title": "farol trapezoidal 5518",
+                                "img": "../data/assets/faroles-trapezoidal/5518.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "faroles exagonales",
+                            "img": "../data/assets/faroles-exagonales/5530.jpg",
+                            "link": "../subpages/faroles-exagonales.html",
+                            "categorias": [
+                                {
+                                    "id": 61,
+                                    "title":"farol exagonal 5530",
+                                    "img": "../data/assets/faroles-exagonales/5530.jpg"
+                                },
+                                {
+                                    "id": 62,
+                                    "title": "farol exagonal 5532",
+                                    "img": "../data/assets/faroles-exagonales/5532.jpg"
+                                },
+                                {
+                                    "id": 62,
+                                    "title": "farol exagonal 5533",
+                                    "img": "../data/assets/faroles-exagonales/5533.jpg"
+                                },
+                                {
+                                    "id": 63,
+                                    "title": "farol exagonal 5536",
+                                    "img": "../data/assets/faroles-exagonales/5536.jpg"
+                                },
+                                {
+                                    "id": 64,
+                                    "title": "farol exagonal 5537",
+                                    "img": "../data/assets/faroles-exagonales/5537.jpg"
+                                },
+                                {
+                                    "id": 65,
+                                    "title": "farol exagonal 5538",
+                                    "img": "../data/assets/faroles-exagonales/5538.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "faroles rectos",
+                            "img": "../data/assets/faroles-rectos/5505.jpg",
+                            "link": "../subpages/faroles-rectos.html",
+                            "categorias": [
+                                {
+                                    "id": 66,
+                                    "title": "farol recto 5505",
+                                    "img": "../data/assets/faroles-rectos/5505.jpg"
+                                },
+                                {
+                                    "id": 67,
+                                    "title": "farol recto 5520",
+                                    "img": "../data/assets/faroles-rectos/5520.jpg"
+                                },
+                                {
+                                    "id": 68,
+                                    "title": "farol recto 5522",
+                                    "img": "../data/assets/faroles-rectos/5522.jpg"
+                                },
+                                {
+                                    "id": 69,
+                                    "title": "farol recto 5523",
+                                    "img": "../data/assets/faroles-rectos/5523.jpg"
+                                },
+                                {
+                                    "id": 694,
+                                    "title": "farol recto 5524",
+                                    "img": "../data/assets/faroles-rectos/5524.jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "apliques",
+                    "img": "../data/assets/iluminacion/bidireccionales.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "unidireccional",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": 70,
+                                    "title": "unidireccional monaco ap-121",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 71,
+                                    "title": "unidireccional anka 40038",
+                                    "img": ""
+                                },
+                                {
+                                    "id": 72,
+                                    "title": "unidireccional eco simple 40036",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "bidireccional",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [
+                                {
+                                    "id": "73",
+                                    "title": "bidireccional monaco ap-221",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "74",
+                                    "title": "bidireccional monaco ap-220",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "75",
+                                    "title": "bidireccional anka doble 40039",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "76",
+                                    "title": "bidireccional tango 41037",
+                                    "img": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "plafones",
+                    "img": "../data/assets/iluminacion/plafones.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "cuadrado aplicable",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "77",
+                                    "title": "cuadrado apl 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "78",
+                                    "title": "cuadrado apl 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "79",
+                                    "title": "cuadrado apl 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "80",
+                                    "title": "cuadrado apl 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular embutir",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "81",
+                                    "title": "circular emb 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "82",
+                                    "title": "circular emb 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "83",
+                                    "title": "circular emb 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "84",
+                                    "title": "circular emb 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "cuadrado embutir",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "85",
+                                    "title": "cuadrado emb 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "86",
+                                    "title": "cuadrado emb 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "87",
+                                    "title": "cuadrado emb 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "88",
+                                    "title": "cuadrado emb 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular aplicable",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "89",
+                                    "title": "circular apl 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "90",
+                                    "title": "circular apl 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "91",
+                                    "title": "circular apl 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "92",
+                                    "title": "circular apl 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "cuadrado apl black",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "93",
+                                    "title": "cuadrado apl black 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "94",
+                                    "title": "cuadrado apl black 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "95",
+                                    "title": "cuadrado apl black 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "96",
+                                    "title": "cuadrado apl black 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular apl black",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "97",
+                                    "title": "circular apl black 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "98",
+                                    "title": "circular apl black 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "99",
+                                    "title": "circular apl black 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "100",
+                                    "title": "circular apl black 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "circular apl platil",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "101",
+                                    "title": "circular apl platil 6w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "102",
+                                    "title": "circular apl platil 12w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "103",
+                                    "title": "circular aplplatil 18w",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "104",
+                                    "title": "circular apl platil 24w",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "40x40",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [
+                                {
+                                    "id": "105",
+                                    "title": "panel 40x40 embutir",
+                                    "img": ""
+                                },   
+                                {
+                                    "id": "106",
+                                    "title": "panel 40x40 + accesorio apl",
+                                    "img": ""
+                                }       
+                            ]
+                        },
+                        {
+                            "title": "embutir 30x120",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "107",
+                                    "title": "panel 30x120 embutir",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "108",
+                                    "title": "panel 30x120 + accesorio apl",
+                                    "img": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "colgantes",
+                    "img": "../data/assets/iluminacion/colgantes.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "chapa",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "109",
+                                    "title": "colgante chapa c-136ama",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "110",
+                                    "title": "colgante chapa c-136cob/tte",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "111",
+                                    "title": "colgante chapa c-136gri/alu",
+                                    "img": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "vidrio",
+                            "img": "",
+                            "link": "#",
+                            "categorias":[
+                                {
+                                    "id": "112",
+                                    "title": "colgante vidrio c-172/25/pla",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "113",
+                                    "title": "colgante vidrio c-172/32/bla",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "114",
+                                    "title": "colgante vidrio c-175/25/pla",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "115",
+                                    "title": "colgante vidrio c-175/30/neg",
+                                    "img": ""
+                                }
+                            ]
+
+                        },
+                        {
+                            "title": "policarbonato",
+                            "img": "",
+                            "link": "#",
+                            "categorias": [
+                                {
+                                    "id": "116",
+                                    "title": "colgante e-27 30cm pol betta 127 eco mca",
+                                    "img": ""
+                                },
+                                {
+                                    "id": "117",
+                                    "title": "colgante e-40 42cm pol betta 127 eco mca",
+                                    "img": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ] 
+            
+        },
+        {
+            "title": "industria",
+            "img": "./assets/topics/industria.jpg",
+            "link": "industria",
+            "categorias": [
+            {
+                "title": "contactores",
+                "img": "../data/assets/industria/contactores.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "motores",
+                "img": "../data/assets/industria/motores.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "variadores",
+                "img": "../data/assets/industria/variadores.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "relevos",
+                "img": "../data/assets/industria/relevos.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "arranque-suave",
+                "img": "../data/assets/industria/arranque-suave.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "termomagneticas",
+                "img": "../data/assets/industria/termomagneticas.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "diferenciales",
+                "img": "../data/assets/industria/diferenciales.jpg",
+                "link": "#",
+                "categorias": [{}]
+            }
+            ]
+        },
+        {
+            "title": "conductores",
+            "img": "./assets/topics/conductorestwo.jpg",
+            "link": "cables",
+            "categorias": [
+            {
+                "title": "taller",
+                "img": "../data/assets/conductores/taller.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "subterraneo",
+                "img": "../data/assets/conductores/subterraneo.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "retenax",
+                "img": "../data/assets/conductores/retenax.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "preensamblado",
+                "img": "../data/assets/conductores/preensamblado.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "utp",
+                "img": "../data/assets/conductores/utp.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "mallado",
+                "img": "../data/assets/conductores/mallado.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "soldadura",
+                "img": "../data/assets/conductores/soldadura.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "cuDesnudo",
+                "img": "../data/assets/conductores/desnudo-cu.jpg",
+                "link": "#",
+                "categorias": [{}]
+            },
+            {
+                "title": "unipolares",
+                "img": "../data/assets/conductores/unipolares.jpg",
+                "link": "#",
+                "categorias": [{}]
+            }
+            ]
+        },
+        {
+            "title": "punto-y-tomas",
+            "img": "./assets/topics/conjuntos.jpg",
+            "link": "armados",
+            "categorias": [
+                {
+                    "title": "cambre",
+                    "img": "../data/assets/armados/xxii-dos-puntos.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "cambre siglo xxi",
+                            "img": "../data/assets/armados/xxi-1p-1t.jpg",
+                            "link": "../subpages/cambre-siglo-xxi.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "punto y toma xxi",
+                                    "img": "../data/assets/armados/xxi-1p-1t.jpg",
+                                    "link": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "cambre siglo xxii",
+                            "img": "../data/assets/armados/xxii-un-punto.jpg",
+                            "link": "../subpages/cambre-siglo-xxii.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "xxii bl 1 punto",
+                                    "img": "../data/assets/armados/xxii-un-punto.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "xxii bl 2 puntos",
+                                    "img": "../data/assets/armados/xxii-dos-puntos.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "xxii gris 1p+1t",
+                                    "img": "../data/assets/armados/xxii-gris-1p-1t.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "xxii gris punto + variador ventilador + toma 10a",
+                                    "img": "../data/assets/armados/xxii-gris-p-v-t.jpg",
+                                    "link": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "cambre bauhaus",
+                            "img": "../data/assets/armados/bauhaus-madera.jpg",
+                            "link": "../subpages/bauhaus.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "bauhaus madera 3 puntos",
+                                    "img": "../data/assets/armados/bauhaus-madera-3p.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus madera 1p + 1 variador doble",
+                                    "img": "../data/assets/armados/bauhaus-madera.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus orange 2p+1t",
+                                    "img": "../data/assets/armados/bauhaus-orange-2p-1t.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus green 2 tv",
+                                    "img": "../data/assets/armados/bauhaus-dos-tv.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus gris 2p+1t",
+                                    "img": "../data/assets/armados/bauhaus-2p-1t.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus gris emerg + 1t",
+                                    "img": "../data/assets/armados/bauhaus-emer-1t.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus green toma dobre",
+                                    "img": "../data/assets/armados/bauhaus-green-doble-toma.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus red 2p+1t",
+                                    "img": "../data/assets/armados/bauhaus-red-2p-1t.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus vidrio 2 puntos doble",
+                                    "img": "../data/assets/armados/bauhaus-vidrio-doble-punto.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "bauhaus vidrio dobre toma",
+                                    "img": "../data/assets/armados/bauhaus-vidrio-doble-toma.jpg",
+                                    "link": "#"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "cambre arte",
+                            "img": "../data/assets/armados/arte-sham-1p-cuadruple.jpg",
+                            "link": "../subpages/arte.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "arte alum 1p cuadruple",
+                                    "img": "../data/assets/armados/arte-alum-1p-cuadruple.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "arte bl 1p+1t",
+                                    "img": "../data/assets/armados/arte-bl-1p.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "arte bl 1p cuadruplet",
+                                    "img": "../data/assets/armados/arte-sham-1p-cuadruple.jpg",
+                                    "link": "#"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "jeluz",
+                    "img": "../data/assets/armados/jeluz-1p-1t.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "jeluz verona",
+                            "img": "../data/assets/armados/jeluz-1p-1t.jpg",
+                            "link": "../subpages/verona.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "verona 1p+1t",
+                                    "img": "../data/assets/armados/jeluz-1p-1t.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "verona 2 tomas",
+                                    "img": "../data/assets/armados/jeluz-dos-tomas.jpg",
+                                    "link": "#"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "sica",
+                    "img": "../data/assets/armados/sica-1p-1t.jpg",
+                    "link": "#",
+                    "categorias": [
+                        {
+                            "title": "sica life",
+                            "img": "../data/assets/armados/sica-1p-1t.jpg",
+                            "link": "../subpages/sica-life.html",
+                            "categorias": [
+                                {
+                                    "id": "",
+                                    "title": "sica life 1p+1t",
+                                    "img": "../data/assets/armados/sica-1p-1t.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "sica life 2 tomas",
+                                    "img": "../data/assets/armados/sica-dos-tomas.jpg",
+                                    "link": "#"
+                                },
+                                {
+                                    "id": "",
+                                    "title": "sica life toma doble",
+                                    "img": "../data/assets/armados/sica-toma-doble.jpg",
+                                    "link": "#"
+                                }
+
+                            ]  
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "herramientas",
+            "img": "./assets/topics/herramientas.jpg",
+            "link": "herramientas",
+            "categorias": [
+            {
+                "title": "electricas",
+                "img": "../data/assets/herramientas/her-elec/taladro-inalambrico-stanley-12v.jpg",
+                "link": "../subpages/herramientas-electricas.html",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "amoladora",
+                        "img": "../data/assets/herramientas/her-elec/moladora-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "taladro 12v",
+                        "img": "../data/assets/herramientas/her-elec/moladora-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "taladro 20v",
+                        "img": "../data/assets/herramientas/her-elec/taladro-inalambrico-stanley-20v.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "taladro 700w",
+                        "img": "../data/assets/herramientas/her-elec/taladro-stanley.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "discos",
+                "img": "../data/assets/herramientas/discos/disco-corte-stanley.jpg",
+                "link": "../subpages/herramientas-discos.html",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "disco-corte",
+                        "img": "../data/assets/herramientas/discos/disco-corte-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "disco-continuo",
+                        "img": "../data/assets/herramientas/discos/disco-continuo.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "disco-segmentado",
+                        "img": "../data/assets/herramientas/discos/disco-segmentado.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "disco-flap",
+                        "img": "../data/assets/herramientas/discos/disco-flap.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "pinzas/alicates",
+                "img": "../data/assets/herramientas/stanley/pinza-stanley.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "pinza",
+                        "img": "../data/assets/herramientas/stanley/pinza-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "alicate",
+                        "img": "../data/assets/herramientas/stanley/alicate-stanley.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "alicate oblicuo",
+                        "img": "../data/assets/herramientas/stanley/alicate-oblicuo-stanley.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "prensa terminales cu",
+                "img": "../data/assets/herramientas/lct/cobre/ly-10.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-10",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-10.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-16",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-16.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-35",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-35.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-120",
+                        "img": "../data/assets/herramientas/lct/cobre/ly-120.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "corta cables",
+                "img": "../data/assets/herramientas/lct/corta-cable/lk-60.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "lk-60",
+                        "img": "../data/assets/herramientas/lct/corta-cable/lk-60.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "lk-325a",
+                        "img": "../data/assets/herramientas/lct/corta-cable/lk-325a.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "destornilladores",
+                "img": "../data/assets/herramientas/lct/destornilladores/dph.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "dph",
+                        "img": "../data/assets/herramientas/lct/destornilladores/dph.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "dpl",
+                        "img": "../data/assets/herramientas/lct/destornilladores/dpl.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "set destornilladores",
+                        "img": "../data/assets/herramientas/lct/destornilladores/set-destornilladores.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "hidraulicas",
+                "img": "../data/assets/herramientas/lct/hidraulica/co-12cb.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "co-12cb",
+                        "img": "../data/assets/herramientas/lct/hidraulica/co-12cb.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "hh-ip",
+                        "img": "../data/assets/herramientas/lct/hidraulica/hh-ip.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "coaxil",
+                "img": "../data/assets/herramientas/lct/laton-coaxil/ly-03b.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-03b",
+                        "img": "../data/assets/herramientas/lct/laton-coaxil/ly-03b.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-05h",
+                        "img": "../data/assets/herramientas/lct/laton-coaxil/ly-05h.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-518g",
+                        "img": "../data/assets/herramientas/lct/laton-coaxil/ly-518g.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "pelacables",
+                "img": "../data/assets/herramientas/lct/pelacable/ly-7.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-7",
+                        "img": "../data/assets/herramientas/lct/pelacable/ly-7.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-25-9",
+                        "img": "../data/assets/herramientas/lct/pelacable/ly-25-9.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-700",
+                        "img": "../data/assets/herramientas/lct/pelacable/ly-700.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "preaislado",
+                "img": "../data/assets/herramientas/lct/preaislado/hm-1.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "hm-1",
+                        "img": "../data/assets/herramientas/lct/preaislado/hm-1.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-03c",
+                        "img": "../data/assets/herramientas/lct/preaislado/ly-03c.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-16c",
+                        "img": "../data/assets/herramientas/lct/preaislado/ly-16c.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "Herramientas p/ rj",
+                "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-468.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "ly-468",
+                        "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-468.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-5684a",
+                        "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-5684a.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-5684b",
+                        "img": "../data/assets/herramientas/lct/rj11-rj45-rj9/ly-5684b.jpg"
+                    }
+                ]
+            },
+            {
+                "title": "herranientas p/ tubulares",
+                "img": "../data/assets/herramientas/lct/tubular/es-16wf.jpg",
+                "link": "#",
+                "categorias": [
+                    {
+                        "id": "",
+                        "title": "es-16wf",
+                        "img": "../data/assets/herramientas/lct/tubular/es-16wf.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-04wf",
+                        "img": "../data/assets/herramientas/lct/tubular/ly-04wf.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-16wf",
+                        "img": "../data/assets/herramientas/lct/tubular/ly-35wf.jpg"
+                    },
+                    {
+                        "id": "",
+                        "title": "ly-35wf",
+                        "img": "../data/assets/herramientas/lct/tubular/ly-35wf.jpg"
+                    }
+                ]
+            }
+
+            ]
+        },
+        {
+            "title": "terminales",
+            "img": "./assets/topics/terminales.jpg",
+            "link": "terminales",
+            "categorias": [
+            {
+                "title": "terminal-cu",
+                "img": "../data/assets/terminales/terminal-cobre-estanado.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "punteras tubulares",
+                "img": "../data/assets/terminales/tubulares.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "terminales preaislados",
+                "img": "../data/assets/terminales/preaislados.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "bimetalico forjado",
+                "img": "../data/assets/terminales/bimetalico-forjado.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "bimetalico",
+                "img": "../data/assets/terminales/bimetalico.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "aluminio",
+                "img": "../data/assets/terminales/terminal-aluminio.jpg",
+                "link": "#",
+                "categorias":[]
+            }
+            ]
+        },
+        {
+            "title": "normalizados",
+            "img": "./assets/topics/normalizadosTwo.jpg",
+            "link": "normalizados",
+            "categorias": [
+            {
+                "title": "abrazaderas",
+                "img": "../data/assets/normalizados/abrazaderas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "accesorios para hilo de guardia",
+                "img": "../data/assets/normalizados/accesorios-p-hilo-de-guardia.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "aisladores de porcelana",
+                "img": "../data/assets/normalizados/aisladores-de-porcelana.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "aisladores polimericos",
+                "img": "../data/assets/normalizados/aisladores-polimericos.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "anclajes",
+                "img": "../data/assets/normalizados/anclajes.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "arandelas",
+                "img": "../data/assets/normalizados/arandelas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "ataduras y amarres",
+                "img": "../data/assets/normalizados/ataduras-y-amarres.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "brazos",
+                "img": "../data/assets/normalizados/brazos.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "bulones",
+                "img": "../data/assets/normalizados/bulones.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "cables",
+                "img": "../data/assets/normalizados/cables.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "chapas",
+                "img": "../data/assets/normalizados/crusetas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "elementos de cadena",
+                "img": "../data/assets/normalizados/elementos-de-cadena.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "guardacabos",
+                "img": "../data/assets/normalizados/guardacabo.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "jabalinas",
+                "img": "../data/assets/normalizados/jabalinas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "mensulas y morsas",
+                "img": "../data/assets/normalizados/mensulas-y-morsas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "morcetos, conectores y grampas",
+                "img": "../data/assets/normalizados/morcetos-conectores-y-grampas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "ojales",
+                "img": "../data/assets/normalizados/ojales.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "pernos",
+                "img": "../data/assets/normalizados/pernos.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "protecciones electricas",
+                "img": "../data/assets/normalizados/protecciones-electricas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "seccionadores",
+                "img": "../data/assets/normalizados/seccionadores.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "tensores",
+                "img": "../data/assets/normalizados/tensores.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "tillas",
+                "img": "../data/assets/normalizados/tillas.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "varios",
+                "img": "../data/assets/normalizados/varios.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "yugos",
+                "img": "../data/assets/normalizados/yugos.jpg",
+                "link": "#",
+                "categorias":[]
+            }
+            ]
+        },
+        {
+            "title": "medicion",
+            "img": "./assets/topics/instrumentos.jpg",
+            "link": "testing",
+            "categorias": [
+            {
+                "title": "buscapolo inductivo",
+                "img": "../data/assets/instrumentos/buscapolo-inductivo.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "buscapolo",
+                "img": "../data/assets/instrumentos/buscapolo.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "multimetro",
+                "img": "../data/assets/instrumentos/multimetro-two.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "multimetro",
+                "img": "../data/assets/instrumentos/multimetro.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "pinza amperometrica",
+                "img": "../data/assets/instrumentos/pinza-amperometrica.jpg",
+                "link": "#",
+                "categorias":[]
+            },
+            {
+                "title": "punta de prueba",
+                "img": "../data/assets/instrumentos/punta-prueba.jpg",
+                "link": "#",
+                "categorias":[]
+            }
+            ]
+        },
+        {
+            "title": "aereo",
+            "img": "./assets/topics/aereo.jpg",
+            "link": "aereo",
+            "categorias": [
+            {
+                "id": "",
+                "title": "pkd-14",
+                "img": "../data/assets/aereo/pkd-14.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkd-16",
+                "img": "../data/assets/aereo/pkd-16.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkd-31",
+                "img": "../data/assets/aereo/pkd-31.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkd-20",
+                "img": "../data/assets/aereo/pkd20.jpg"
+            },
+            {
+                "id": "",
+                "title": "pkr-20",
+                "img": "../data/assets/aereo/pkr20.jpg"
+            },
+            {
+                "id": "",
+                "title": "pks-10 cf",
+                "img": "../data/assets/aereo/pks-10cf.jpg"
+            },
+            {
+                "id": "",
+                "title": "preensamblado",
+                "img": "../data/assets/aereo/preensamblado.jpg"
+            }
+            ]
+        },
+        {
+            "title": "emergencia",
+            "img": "./assets/topics/emergencia.jpg",
+            "link": "emergencia",
+            "categorias": [
+            {
+                "id": "",
+                "title": "baw 30 leds 2",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-30-leds-two.jpg"
+            },
+            {
+                "id": "",
+                "title": "baw 30 leds",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-30-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "baw 60 leds 2",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-60-leds-two.jpg"
+            },
+            {
+                "id": "",
+                "title": "baw 60 leds",
+                "img": "../data/assets/luz-emergencia/baw-emergencia-60-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "atomlux 2020",
+                "img": "../data/assets/luz-emergencia/emergencia-atomlux-2020.jpg"
+            },
+            {
+                "id": "",
+                "title": "atomlux 2045",
+                "img": "../data/assets/luz-emergencia/emergencia-atomlux-2045.jpg"
+            },
+            {
+                "id": "",
+                "title": "atomlux alto brillo",
+                "img": "../data/assets/luz-emergencia/emergencia-atomlux-alto-brillo.jpg"
+            },
+            {
+                "id": "",
+                "title": "idoler 30 leds",
+                "img": "../data/assets/luz-emergencia/idoler-emergencia-30-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "idoler 60 leds",
+                "img": "../data/assets/luz-emergencia/idoler-emergencia-60-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "macroled 90 leds",
+                "img": "../data/assets/luz-emergencia/macroled-emergencia-90-leds.jpg"
+            },
+            {
+                "id": "",
+                "title": "tbcin 15w",
+                "img": "../data/assets/luz-emergencia/tbcin-autonoma-15.jpg"
+            }
+            ]
+        },
+        {
+            "title": "morceteria",
+            "img": "./assets/topics/morceteria.jpg",
+            "link": "morceteria",
+            "categorias": [
+            {
+                "title": "conector diente tipo peine",
+                "img": "../data/assets/morceteria/conector-diente-tipo-peine.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "conector pat",
+                "img": "../data/assets/morceteria/conector-pat.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "grampa fijacion 3 bulones",
+                "img": "../data/assets/morceteria/grampa-fijacion-3-bulones.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "grampa fijacion mn200",
+                "img": "../data/assets/morceteria/grampa-fijacion-mn200.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "grampa prensacable",
+                "img": "../data/assets/morceteria/grampa-prensacables.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto 2 bulones",
+                "img": "../data/assets/morceteria/morceto-2-bulones.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto 3 bulones",
+                "img": "../data/assets/morceteria/morceto-3-bulones.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo gpa1 gpb1",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-gpa1-gpb1.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo gpa2 gpa3 gpa4",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-gpa2-gpa3-gpa4.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo gpb2 gpb3 gpb4",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-gpa2-gpa3-gpa4.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpa1 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpa1-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpa2 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpa2-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpb1 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpb1-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            },
+            {
+                "title": "morceto bifilar paralelo mpb2 cuerpo roscado",
+                "img": "../data/assets/morceteria/morceto-bifilar-paralelo-mpb2-cuerpo-roscado.jpg",
+                "link": "#",
+                "categorias": []
+            }
+            ]
+        }
+    ]
+}
