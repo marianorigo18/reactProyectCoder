@@ -24,20 +24,18 @@ const ItemListContainer = () => {
     return(
         <div>
             <h1>Hello world from ItemListContainer</h1>
-            <div style={{display: "flex", flexWrap: "wrap"}}>
-                {products.map((prod) => {
-                    return(
-                        prod.categorias.map((prod2, index)=>{
+                {products.map((product)=>{
+                    return (
+                        product.categorias.map((product2, index)=>{
                             return(
-                                <div key={index} style={{border: "1px solid black"}}>
-                                    <h1>{prod2.title}</h1>
-                                    <img src={prod2.img} alt={prod2.title} width={100}></img>
+                                <div key={index}>
+                                    <h2>{product2.title}</h2>
+                                    <img src={product2.img} alt={product2.title} width={100}></img>
                                 </div>
                             )
                         })
-                    )
+                        )
                 })}
-            </div>
         </div>
     )
 }
