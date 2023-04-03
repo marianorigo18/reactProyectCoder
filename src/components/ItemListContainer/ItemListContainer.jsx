@@ -32,6 +32,7 @@ const ItemListContainer = () => {
                                     <div key={index}>
                                         <h2>{product2.title}</h2>
                                         <img src={product2.img} alt={product2.title} width={100}></img>
+                                        <button>ver detalle</button>
                                     </div>
                                 )
                             })
