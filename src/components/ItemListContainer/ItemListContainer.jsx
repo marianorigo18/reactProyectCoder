@@ -1,12 +1,17 @@
 import { useState, useEffect } from "react"
-import { getCategories } from "../../asyncMocks"
+import { useParams } from "react-router-dom"
+import { getCategories, filterCategoriesFirstLevel} from "../../asyncMocks"
 
 const ItemListContainer = () => {
     const [products, setProducts] = useState([])
     const [isLoading, setIsLoading] = useState(true)
 
+    const {categoryId} = useParams()
+
     useEffect(() => {
-        getCategories()
+        const asynFunction = categoryId ? filterCategoriesFirstLevel : getCategories
+
+        asynFunction(categoryId)
         .then(response => {
             setProducts(response)
         })
@@ -16,7 +21,7 @@ const ItemListContainer = () => {
         .finally(()=>{
             setIsLoading(false)
         })
-    },[])
+    },[categoryId])
 
     if(isLoading){
         return <h1>cargando...</h1>
@@ -25,18 +30,14 @@ const ItemListContainer = () => {
         <div>
             <h1>Hello world from ItemListContainer</h1>
                 <div style={{display: "flex", flexWrap: "wrap"}}>
-                    {products.map((product)=>{
+                    {products.map((product, index)=>{
                         return (
-                            product.categorias.map((product2, index)=>{
-                                return(
-                                    <div key={index}>
-                                        <h2>{product2.title}</h2>
-                                        <img src={product2.img} alt={product2.title} width={100}></img>
-                                        <button>ver detalle</button>
-                                    </div>
-                                )
-                            })
-                            )
+                            <div key={index}>
+                            <h2>{product.title}</h2>
+                            <img src={product.img} alt={product.title} width={100}></img>
+                            <button>ver detalle</button>
+                        </div>
+                        )  
                     })}
                 </div>
         </div>
