@@ -1,18 +1,42 @@
 import { useParams } from "react-router-dom"
+import { useEffect, useState } from "react"
 
 const ItemDetailContainer = () => {
+    const [urlParam, setUrlParam] = useState()
     const {productId, productIdTwo, productIdThree} = useParams()
+
+    useEffect(()=>{
+        if(productId){
+            console.log(productId)
+            setUrlParam(productId)
+            return
+        }
+    },[productId])
+
+    useEffect(()=>{
+        if(productIdTwo){
+            console.log(productIdTwo)
+            setUrlParam(productIdTwo)
+            return
+        }
+    },[productIdTwo])
+
+    useEffect(()=>{
+        if(productIdThree){
+            console.log(productIdThree);
+            setUrlParam(productIdThree)
+            return
+        }
+    },[productIdThree])
+
+
+
+
     
-    if(productIdThree){
-        console.log(productIdThree)
-    }else if(productIdTwo){
-        console.log(productIdTwo)
-    }else{
-        console.log(productId)
-    }
+
     return(
         <div>
-            <h1>Detail</h1>
+            <h1>{urlParam}</h1>
         </div>
     )
 }
